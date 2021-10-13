@@ -1,4 +1,9 @@
 ---
 label: st
 hide_body: true
-fields: []
+fields:
+- name: dsfasdfa
+  type: text
+  config:
+    required: false
+  label: dsfasdfa
